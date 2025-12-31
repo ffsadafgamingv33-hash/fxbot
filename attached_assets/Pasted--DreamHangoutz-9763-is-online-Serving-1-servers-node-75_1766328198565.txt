@@ -1,0 +1,108 @@
+✅ DreamHangoutz™#9763 is online!
+📊 Serving 1 servers
+(node:753) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error executing giveltc: SqliteError: no such column: ltc
+    at Database.prepare (/home/runner/workspace/node_modules/better-sqlite3/lib/methods/wrappers.js:5:21)
+    at BotDatabase.addLTC (/home/runner/workspace/src/database/db.js:408:13)
+    at Object.execute (/home/runner/workspace/src/commands/admin/give_ltc.js:16:15)
+    at Client.<anonymous> (/home/runner/workspace/src/index.js:148:19)
+    at Client.emit (node:events:524:28)
+    at MessageCreateAction.handle (/home/runner/workspace/node_modules/discord.js/src/client/actions/MessageCreate.js:32:14)
+    at module.exports [as MESSAGE_CREATE] (/home/runner/workspace/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:352:31)
+    at WebSocketManager.<anonymous> (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:236:12)
+    at WebSocketManager.emit (/home/runner/workspace/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:2504:31) {
+  code: 'SQLITE_ERROR'
+}
+Error executing giveltc: SqliteError: no such column: ltc
+    at Database.prepare (/home/runner/workspace/node_modules/better-sqlite3/lib/methods/wrappers.js:5:21)
+    at BotDatabase.addLTC (/home/runner/workspace/src/database/db.js:408:13)
+    at Object.execute (/home/runner/workspace/src/commands/admin/give_ltc.js:16:15)
+    at Client.<anonymous> (/home/runner/workspace/src/index.js:148:19)
+    at Client.emit (node:events:524:28)
+    at MessageCreateAction.handle (/home/runner/workspace/node_modules/discord.js/src/client/actions/MessageCreate.js:32:14)
+    at module.exports [as MESSAGE_CREATE] (/home/runner/workspace/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:352:31)
+    at WebSocketManager.<anonymous> (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:236:12)
+    at WebSocketManager.emit (/home/runner/workspace/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:2504:31) {
+  code: 'SQLITE_ERROR'
+}
+Error executing giveltc: SqliteError: no such column: ltc
+    at Database.prepare (/home/runner/workspace/node_modules/better-sqlite3/lib/methods/wrappers.js:5:21)
+    at BotDatabase.addLTC (/home/runner/workspace/src/database/db.js:408:13)
+    at Object.execute (/home/runner/workspace/src/commands/admin/give_ltc.js:16:15)
+    at Client.<anonymous> (/home/runner/workspace/src/index.js:148:19)
+    at Client.emit (node:events:524:28)
+    at MessageCreateAction.handle (/home/runner/workspace/node_modules/discord.js/src/client/actions/MessageCreate.js:32:14)
+    at module.exports [as MESSAGE_CREATE] (/home/runner/workspace/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:352:31)
+    at WebSocketManager.<anonymous> (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:236:12)
+    at WebSocketManager.emit (/home/runner/workspace/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:2504:31) {
+  code: 'SQLITE_ERROR'
+}
+Error executing givedollar: SqliteError: no such column: dollars
+    at Database.prepare (/home/runner/workspace/node_modules/better-sqlite3/lib/methods/wrappers.js:5:21)
+    at BotDatabase.addDollars (/home/runner/workspace/src/database/db.js:397:13)
+    at Object.execute (/home/runner/workspace/src/commands/admin/give_dollar.js:16:15)
+    at Client.<anonymous> (/home/runner/workspace/src/index.js:148:19)
+    at Client.emit (node:events:524:28)
+    at MessageCreateAction.handle (/home/runner/workspace/node_modules/discord.js/src/client/actions/MessageCreate.js:32:14)
+    at module.exports [as MESSAGE_CREATE] (/home/runner/workspace/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:352:31)
+    at WebSocketManager.<anonymous> (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:236:12)
+    at WebSocketManager.emit (/home/runner/workspace/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:2504:31) {
+  code: 'SQLITE_ERROR'
+}
+Error executing giveltc: SqliteError: no such column: ltc
+    at Database.prepare (/home/runner/workspace/node_modules/better-sqlite3/lib/methods/wrappers.js:5:21)
+    at BotDatabase.addLTC (/home/runner/workspace/src/database/db.js:408:13)
+    at Object.execute (/home/runner/workspace/src/commands/admin/give_ltc.js:16:15)
+    at Client.<anonymous> (/home/runner/workspace/src/index.js:148:19)
+    at Client.emit (node:events:524:28)
+    at MessageCreateAction.handle (/home/runner/workspace/node_modules/discord.js/src/client/actions/MessageCreate.js:32:14)
+    at module.exports [as MESSAGE_CREATE] (/home/runner/workspace/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:352:31)
+    at WebSocketManager.<anonymous> (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:236:12)
+    at WebSocketManager.emit (/home/runner/workspace/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:2504:31) {
+  code: 'SQLITE_ERROR'
+}
+Error executing givedollar: SqliteError: no such column: dollars
+    at Database.prepare (/home/runner/workspace/node_modules/better-sqlite3/lib/methods/wrappers.js:5:21)
+    at BotDatabase.addDollars (/home/runner/workspace/src/database/db.js:397:13)
+    at Object.execute (/home/runner/workspace/src/commands/admin/give_dollar.js:16:15)
+    at Client.<anonymous> (/home/runner/workspace/src/index.js:148:19)
+    at Client.emit (node:events:524:28)
+    at MessageCreateAction.handle (/home/runner/workspace/node_modules/discord.js/src/client/actions/MessageCreate.js:32:14)
+    at module.exports [as MESSAGE_CREATE] (/home/runner/workspace/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:352:31)
+    at WebSocketManager.<anonymous> (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:236:12)
+    at WebSocketManager.emit (/home/runner/workspace/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:2504:31) {
+  code: 'SQLITE_ERROR'
+}
+Error executing givedollar: SqliteError: no such column: dollars
+    at Database.prepare (/home/runner/workspace/node_modules/better-sqlite3/lib/methods/wrappers.js:5:21)
+    at BotDatabase.addDollars (/home/runner/workspace/src/database/db.js:397:13)
+    at Object.execute (/home/runner/workspace/src/commands/admin/give_dollar.js:16:15)
+    at Client.<anonymous> (/home/runner/workspace/src/index.js:148:19)
+    at Client.emit (node:events:524:28)
+    at MessageCreateAction.handle (/home/runner/workspace/node_modules/discord.js/src/client/actions/MessageCreate.js:32:14)
+    at module.exports [as MESSAGE_CREATE] (/home/runner/workspace/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:352:31)
+    at WebSocketManager.<anonymous> (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:236:12)
+    at WebSocketManager.emit (/home/runner/workspace/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:2504:31) {
+  code: 'SQLITE_ERROR'
+}
+Error executing givedollar: SqliteError: no such column: dollars
+    at Database.prepare (/home/runner/workspace/node_modules/better-sqlite3/lib/methods/wrappers.js:5:21)
+    at BotDatabase.addDollars (/home/runner/workspace/src/database/db.js:397:13)
+    at Object.execute (/home/runner/workspace/src/commands/admin/give_dollar.js:16:15)
+    at Client.<anonymous> (/home/runner/workspace/src/index.js:148:19)
+    at Client.emit (node:events:524:28)
+    at MessageCreateAction.handle (/home/runner/workspace/node_modules/discord.js/src/client/actions/MessageCreate.js:32:14)
+    at module.exports [as MESSAGE_CREATE] (/home/runner/workspace/node_modules/discord.js/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:352:31)
+    at WebSocketManager.<anonymous> (/home/runner/workspace/node_modules/discord.js/src/client/websocket/WebSocketManager.js:236:12)
+    at WebSocketManager.emit (/home/runner/workspace/node_modules/@vladfrangu/async_event_emitter/dist/index.cjs:2504:31) {
+  code: 'SQLITE_ERROR'
+}

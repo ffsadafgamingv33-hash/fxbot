@@ -1,0 +1,81 @@
+Here are my main commands:
+🛒 Shop & Credits
++shop - Browse the credit shop
++buy <item_id> - Purchase items
++balance - Check your credits
++balancetop - View credit leaderboard
++inventory - View purchase history
++daily - Claim daily credits
++transfer <user> <amount> - Send credits (disabled)
+🛡️ Security & Verification
++verifyhelp - Verification guide
++captchastatus - Check captcha status
++flush - Reset captcha channel (Manage Messages)
+Auto alt detection & blocking
+Captcha solving = credits
+📊 Stats & Progress
++level - Check your XP level
++level_leaderboard - XP leaderboard
++pingstats - Ping statistics (Admin only)
+Earn XP & credits by chatting!
+🎰 Gambling
++gamblehelp - Gambling guide
++roulette - Play roulette
++dice - Roll dice
++slots - Play slots
++coinflip - Flip a coin
++crush - Crash game
++gamblestats - Your gambling stats
++gambletop - Gambling leaderboard
+📨 Invite Tracking
++invites - Your invite stats
++invited - Members you invited
++inviteinfo <code> - Info on invite code
++addinvites <user> <num> - Add invites (Owner only)
++removeinvites <user> <num> - Remove invites (Owner only)
++validateinvites <user> - Validate invites (Allowed role)
++resetinvites <user|all> - Reset invites (Owner only)
+📥 Utility
++grab - Grab combos (Owner only)
++grabhits - Grab SFA.txt (Owner only)
++rr - Remove ❌ reactions (Owner only)
+📦 Crates
++crateinfo - View all crate information
++mykeys - View your crate keys
++buycratekey <type> - Buy a crate key
++opencrate <type> - Open a crate
++givecratekey <user> <type> [amount] - Give keys (Owner only)
+Win keys, codes, credits & more!
+⚙️ Moderation
++warn <user> <reason> - Warn a user
++unwarn <user> - Remove last warn
++history <user> - Show moderation history
++clearhistory <user> - Wipe moderation history
++mute <user> <time> <reason> - Mute a user
++paidgen <user> <time> - Give premium role
++timer <time> <name> - Start a timer
++rename <new_name> - Rename ticket channel
++allow <cmd> <role/user> - Allow command
++disallow <cmd> <role/user> - Disallow command
++modperms [cmd] - Show command permissions
+⚙️ Admin
++shopsetup - Setup shop (Admin only)
++channeladd - Add XP channel (Admin only)
++channelremove - Remove XP channel (Admin only)
++blacklist - Manage blacklist (Admin only)
++addcred - Add credits (Admin only)
++removecred - Remove credits (Admin only)
++scan - Scan VIP status (Admin only)
++wl_vip <user> - Whitelist VIP (Admin only)
++unwl_vip <user> - Remove VIP whitelist (Admin only)
++list_wl_vip - List VIP whitelist (Admin only)
++start_flush - Kick unsafe members (Owner only)
++cgstart <time> <credits> [winners] - Start giveaway
++cgstop <msg_id> - Stop giveaway
++cgstatus - List giveaways
++cgreroll <msg_id> - Reroll giveaway
+💡 How to Earn Credits
+Chat in channels = XP & credits
+Use +daily every 24h
+Solve captchas for bonuses
+Stay active for faster growth
